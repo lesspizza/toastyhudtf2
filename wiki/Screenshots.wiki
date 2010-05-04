@@ -6,12 +6,6 @@ http://img687.imageshack.us/img687/4610/tournamentsetup.png
 Soldier Buff Banner:
 http://img32.imageshack.us/img32/7963/soldierbuffbanner.png
 
-Soldier Lit (Flashes red and white):
-http://img32.imageshack.us/img32/5/soldierlit.png
-
-Soldier Buffed (Stays blue):
-http://img18.imageshack.us/img18/2755/soldierbuffed.png
-
 Huntsman:
 http://img18.imageshack.us/img18/1577/huntsmanx.png
 
