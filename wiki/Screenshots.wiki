@@ -3,28 +3,46 @@
 Tournament Setup/Scout:
 http://img687.imageshack.us/img687/4610/tournamentsetup.png
 
-Soldier BB:
+Soldier Buff Banner:
 http://img32.imageshack.us/img32/7963/soldierbuffbanner.png
+
+Soldier Lit (Flashes red and white):
+http://img32.imageshack.us/img32/5/soldierlit.png
+
+Soldier Buffed (Stays blue):
+http://img18.imageshack.us/img18/2755/soldierbuffed.png
 
 Huntsman:
 http://img18.imageshack.us/img18/1577/huntsmanx.png
 
+Medic - Half Uber:
+http://img687.imageshack.us/img687/3043/fillinguber.png
 
+Medic - Full Uber + TargetIDs:
 http://img710.imageshack.us/img710/8176/targetidsfulluber.png
 
-http://img130.imageshack.us/img130/6795/spyw.png
-http://img32.imageshack.us/img32/5/soldierlit.png
-http://img18.imageshack.us/img18/2755/soldierbuffed.png
-
-http://img13.imageshack.us/img13/6571/freezecam.png
-http://img687.imageshack.us/img687/3043/fillinguber.png
-http://img13.imageshack.us/img13/9377/engiebuildingstuff.png
-http://img11.imageshack.us/img11/5092/disguisemenu.png
+Demoman - Stickies and Eyelander:
 http://img32.imageshack.us/img32/2629/demoman.png
-http://img696.imageshack.us/img696/2386/demolishmenu.png
-http://img130.imageshack.us/img130/4444/scoreboardr.png
-http://img130.imageshack.us/img130/6509/winpaneltournamentspec.png
+
+Engie Stuff:
+http://img13.imageshack.us/img13/9377/engiebuildingstuff.png
 http://img59.imageshack.us/img59/5909/buildmenufull.png
 http://img710.imageshack.us/img710/9315/buildmenuempty.png
-http://img11.imageshack.us/img11/526/cpgravelpit0002.png
+http://img696.imageshack.us/img696/2386/demolishmenu.png
+
+Spah Stuff:
+http://img130.imageshack.us/img130/6795/spyw.png
+http://img11.imageshack.us/img11/5092/disguisemenu.png
+
+Freezecam:
+http://img13.imageshack.us/img13/6571/freezecam.png
+
+Scoreboard:
+http://img130.imageshack.us/img130/4444/scoreboardr.png
+
+Winpanel + Tournament Spectator:
+http://img130.imageshack.us/img130/6509/winpaneltournamentspec.png
+
+Stopwatch:
 http://img204.imageshack.us/img204/3218/cpgravelpit0001.png
+http://img11.imageshack.us/img11/526/cpgravelpit0002.png
