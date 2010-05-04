@@ -37,9 +37,5 @@ http://img130.imageshack.us/img130/4444/scoreboardr.png
 Winpanel + Tournament Spectator:
 http://img130.imageshack.us/img130/6509/winpaneltournamentspec.png
 
-Stopwatch:
-http://img204.imageshack.us/img204/3218/cpgravelpit0001.png
-http://img11.imageshack.us/img11/526/cpgravelpit0002.png
-
 CTF Panel:
 http://img534.imageshack.us/img534/2620/ctfpanel.jpg
