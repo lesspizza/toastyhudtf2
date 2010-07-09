@@ -3,7 +3,8 @@
 
 If you want the magic buttons to work (1, 2, 3, and home server buttons as well as the timer swap button) open up your ...tf/cfg/autoexec.cfg file and put the following in it:
 
-{{{alias JoinBookmark1 "connect 63.215.74.192:27015; password "  //Connects to Ubercharged.net #1
+{{{
+alias JoinBookmark1 "connect 63.215.74.192:27015; password "  //Connects to Ubercharged.net #1
 alias JoinBookmark2 "connect 217.163.27.214:27015; password "  //Connects to Ubercharged.net #2
 alias JoinBookmark3 "connect ; password "  //Connects to nowhere
 alias JoinHomeServer "connect ; password ; rcon_password "  //Put your match server info here
@@ -12,4 +13,5 @@ alias ToggleTimers ""
 alias ToggleTimersSmall "cl_hud_minmode 1;alias ToggleTimers ToggleTimersBig" 
 alias ToggleTimersBig "cl_hud_minmode 0;alias ToggleTimers ToggleTimersSmall"   
 
-ToggleTimersSmall  //Change to ToggleTimersBig if you prefer the large timers}}}
+ToggleTimersSmall  //Change to ToggleTimersBig if you prefer the large timers
+}}}
