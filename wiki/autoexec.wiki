@@ -16,4 +16,4 @@ alias ToggleTimersBig "cl_hud_minmode 0;alias ToggleTimers ToggleTimersSmall"
 ToggleTimersSmall  //Change to ToggleTimersBig if you prefer the large timers
 }}}
 
-The point is to make the buttons point to your favorite servers in the easiest way possible so you don't have to dig through a bunch of code in the HUD files.  Thanks to G-Mang for coming up with the idea of aliasing the connect functions in the autoexec.cfg file.  So long as you _do not alter the alias names_ and only *edit the IPs and passwords* to your liking, you should have no issues.
+The point is to make the buttons point to your favorite servers in the easiest way possible so you don't have to dig through a bunch of code in the HUD files.  Thanks to G-Mang for coming up with the idea of aliasing the connect functions in the autoexec.cfg file.  So long as you _*do not alter the alias names*_ and only *edit the IPs and passwords* to your liking, you should have no issues.
