@@ -1,7 +1,7 @@
 #summary Add this to your autoexec.cfg
 #labels Featured
 
-If you want the magic buttons to work (1, 2, 3, and home server buttons as well as the timer swap button) open up your ...tf/cfg/autoexec.cfg file and put the following in it:
+If you want the magic buttons to work (1, 2, 3, and home server buttons, as well as the timer swap button) open up your ...tf/cfg/autoexec.cfg file and put the following in it:
 
 {{{
 alias JoinBookmark1 "connect 63.215.74.192:27015; password "  //Connects to Ubercharged.net #1
@@ -15,3 +15,5 @@ alias ToggleTimersBig "cl_hud_minmode 0;alias ToggleTimers ToggleTimersSmall"
 
 ToggleTimersSmall  //Change to ToggleTimersBig if you prefer the large timers
 }}}
+
+The point is to make the buttons point to your favorite servers in the easiest way possible so you don't have to dig through a bunch of code in the HUD files.  Thanks to G-Mang for coming up with the idea of aliasing the connect functions in the autoexec.cfg file.  So long as you _do not alter the alias names_ and only *edit the IPs and passwords* to your liking, you should have no issues.
