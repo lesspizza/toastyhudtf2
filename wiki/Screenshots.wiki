@@ -1,4 +1,5 @@
 #summary Screenshots - For the lazy folks.
+#labels Featured
 
 Tournament Setup/Scout:
 http://img687.imageshack.us/img687/4610/tournamentsetup.png
