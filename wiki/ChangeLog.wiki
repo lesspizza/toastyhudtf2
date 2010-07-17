@@ -1,0 +1,59 @@
+#Complete change log of ATH
+
+=Change Log=
+----
+==July 09, 2010==
+===Release v2.2===
+ * Switched support from 1440x900 (16:10) resolution to 1366x768 (16:9) due to my new laptop. 16:10 aspect ratios can now eat a big one.
+ * Increased border thickness on most of the panels so they even HAVE a border on various resolutions.
+ * Further fixes to the main menu.
+ * Took the MOTD, map info and item find panels from FrankenHUD.
+ * New team select menu.
+ * New class select menu (based off the one on FrankenHUD, made 10x better).
+ * Added the map name to the scoreboard because I was reminded to :X.
+ * Lopped off the "time left" portion of the server time on the scoreboard. Chances are I messed something up for different resolutions.
+ * Something else I might have forgotten. Shout if you spot it.
+----
+===July 09, 2010===
+====Release v2.12====
+ * Multiple changes to the main menu including adding several "magic buttons" to it (thanks again G-Mang), as well as changing the color theme to match the new dark theme TF2 is sporting.  Might stay, might not, just testing it.
+
+ * The "magic buttons" in the "Find Server" button bar do as listed:
+  * The 1, 2, and 3 buttons connect to your favorite servers.  See [http://code.google.com/p/toastyhudtf2/wiki/autoexec this page] for information on making these buttons work.
+  * The "home" button next to the 1, 2, and 3 buttons does the same thing, but it's reserved for your match server or whatever you feel like.
+ * In the lower right clusters are these three new buttons:
+  * The first runs "record fix; stop" in order to reload models and animations (NOTE: It *will* stop demos in progress!)
+  * The second runs "hud_reloadscheme" to, uh, reload your HUD to fix any bugs with it for when watching STV and such.
+  * The third, and final, toggles between cl_hudminmode 0 and 1 to toggle between the small and large timers.  This one requires you to use the code on [http://code.google.com/p/toastyhudtf2/wiki/autoexec this page] as well.
+
+ * Moved the server name in the scoreboard to cut off the "Server:" bit like I did for the time left.
+
+ * Moved the Engineer's new revenge crits counter to the right of the metal count and added the new kill count icon as a background to it.
+
+ * Updated the engineer's building panel to include all of Valve's recent changes.  Much better now.
+----
+===June 12, 2010===
+====Release v2.11====
+ * Fixed the broken KOTH timers due to the update
+ * Fixed and slimmed down the new main menu to be <a href=http://img16.imageshack.us/img16/6166/newmainmenufath.png>less ugly</a>
+ * Added option to add buttons on the main menu that connect you directly to the ubercharged.net servers.  See readme for more info.
+ * Re-added the 4x3 Tournament Spectator Fix into the download.  I'm retarded, forgive me.
+----
+===May 27, 2010===
+====Release v2.1====
+ * Bleed icon added 
+ * Fixed CTF panel on hybrid gametypes after playing on the new CTF maps from tf2maps.net 
+ * More compact and prettier quickswitch menu 
+ * Fixed another TargetID alignment issue 
+ * Added tick marks to most of the charge bars. Had people yelling at me to add them after Gmang released his HUD. 
+ * Tweaks to the scoreboard and death notices, as well as the build, destroy and disguise menus.
+----
+===May 5, 2010===
+====Patch v2.01==== 
+(Just drop the files in your ...tf/resource/ui/ folder)
+  * Fixes the misaligned Bonk Energy Drink recharge meter.  Completely forgot about it.
+  * Fixes a slight misalignment of the Target IDs.
+----
+===May 4, 2010===
+====Release v.2====
+  * First upload after the Google baleetion incident.  Too many changes to count from v1.3.
