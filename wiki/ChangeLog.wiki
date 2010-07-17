@@ -13,7 +13,7 @@
  * New class select menu (based off the one on FrankenHUD, made 10x better).
  * Added the map name to the scoreboard because I was reminded to :X.
  * Lopped off the "time left" portion of the server time on the scoreboard. Chances are I messed something up for different resolutions.
- * Something else I might have forgotten. Shout if you spot it.
+ * Added drop shadows to various things in the engineer's building panel.  Should be easier to read the text at least, icons were a no-go.
 ----
 ===July 09, 2010===
 ====Release v2.12====
