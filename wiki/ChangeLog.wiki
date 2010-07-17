@@ -7,10 +7,10 @@
 ===Release v2.2===
  * Switched support from 1440x900 (16:10) resolution to 1366x768 (16:9) due to my new laptop. 16:10 aspect ratios can now eat a big one.
  * Increased border thickness on most of the panels so they even HAVE a border on various resolutions.
- * Further fixes to the main menu.
- * Took the MOTD, map info and item find panels from FrankenHUD.
- * New team select menu.
- * New class select menu (based off the one on FrankenHUD, made 10x better).
+ * Further fixes to the [http://img411.imageshack.us/img411/7035/mainmenuke.png main menu].
+ * Took the [http://img137.imageshack.us/img137/9369/motdy.png MOTD],[http://img338.imageshack.us/img338/3672/mapinfo.png map info] and [http://img35.imageshack.us/img35/863/itemgetm.png item find] panels from FrankenHUD.
+ * New [http://img690.imageshack.us/img690/9940/teammenu.png team select] menu.
+ * New [http://img153.imageshack.us/img153/8428/classmenu.png class select] menu (based off the one on FrankenHUD, made 10x better).
  * Added the map name to the scoreboard because I was reminded to :X.
  * Lopped off the "time left" portion of the server time on the scoreboard. Chances are I messed something up for different resolutions.
  * Added drop shadows to various things in the engineer's building panel.  Should be easier to read the text at least, icons were a no-go.
