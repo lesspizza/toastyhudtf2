@@ -10,6 +10,8 @@ Changes are:
  * Scoreboard fixes for a large majority of resolutions, see readme for information.
  * Class you're disguised as now shows up on the Spy disguise bar with appropriate animations
  * Fixes for the new payload maps that include the sliding sections so that you can actually see them on the payload map.
+ * Slightly altered the text on the targetIDs to display better on smaller resolutions
+ * Changed the "Random Team" button image on the Team Select menu for extra awesome.
  * *Some of the aliases have been minorly changed, please update your autoexec.cfg to what I have in the README!*
  * Maybe something else? I dunno, it's been well over a month since I made most of the changes.
 ----
