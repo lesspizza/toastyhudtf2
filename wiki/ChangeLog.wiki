@@ -3,6 +3,17 @@
 
 =Change Log=
 ----
+==October 02, 2010==
+===Release v.2.3===
+*Mann-conomy update fix!*
+
+ * Added a store button to the backpack bar button on the menu
+ * Removed the ugly marketing that is the "ITEM OF THE DAY BUY MEEEEEEEEE". If you want to see it, you can still do that by opening the store itself.
+ * Positioned the new notification box to a place that makes sense on my main menu. (Many thanks to Soulhaunter for sending me a billion trade requests to test this.)
+ * Fixed the newly broken scoreboard
+ * REMOVED the custom "Item Get panel" because the old one was crashing the game. This was actually a direct copy from FrankenHUD and it takes WAY too long to re-do this since you can only test it if you get an item. Deal with vanilla, probably wont re-do this.
+ * Because of the above, I'd HIGHLY recommend a complete HUD reinstall (delete your resource and scripts folders then install ATH) if you've reinstalled since the update.
+----
 ==September 20, 2010==
 ===Release v.2.22===
 Changes are:
