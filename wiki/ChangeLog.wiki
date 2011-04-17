@@ -3,6 +3,18 @@
 
 =Change Log=
 ----
+
+==April 16, 2011==
+===Release v.2.41===
+*Hatless update fix!*
+
+ * Fixed broken things so it doesn't crash!
+ * Added in support for the new coaching system.
+ * Added in button for the new vote system
+ * Main menu overhaul is still planned so I literally just slapped on the buttons wherever they'd fit.  Ugly code, ugly menu, I'll fix it later-ish.
+
+----
+
 ==October 02, 2010==
 ===Release v.2.3===
 *Mann-conomy update fix!*
