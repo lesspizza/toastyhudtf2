@@ -4,7 +4,7 @@
 =Change Log=
 ----
 ==July 21, 2011==
-==Release v.2.44==
+===Release v.2.44===
 
  * Updated item meters for the Cow Mangler 5000 and the Righteous Bison. Each tick on the bar is a shot.
  * Changed Bazaar Bargain head count to match the Demoman head count
