@@ -3,6 +3,13 @@
 
 =Change Log=
 ----
+==August 6, 2011==
+===Release v.2.45===
+
+ * Added support for the new promotional Pip-Boy build/destroy menus
+ * Added a few newer (as in more recent than when I made my custom menus), apparently unused, lines to the normal build/destroy menus
+
+----
 ==July 21, 2011==
 ===Release v.2.44===
 
