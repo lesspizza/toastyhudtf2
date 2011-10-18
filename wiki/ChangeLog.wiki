@@ -3,6 +3,14 @@
 
 =Change Log=
 ----
+==October  1, 2011==
+===Release v. 2.46==
+
+ * Added support for loadout set switching in quickswitch
+ * Readded the Righteous Bison meter that was left out of 2.45
+ * Fixed some minor problems with the backpack screen.
+
+----
 ==August 6, 2011==
 ===Release v.2.45===
 
