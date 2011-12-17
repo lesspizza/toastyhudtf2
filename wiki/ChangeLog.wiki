@@ -3,7 +3,7 @@
 
 =Change Log=
 ----
-==December 16, 2011
+==December 16, 2011==
 ===Release v. 2.48===
 Happy Holidays!
 
