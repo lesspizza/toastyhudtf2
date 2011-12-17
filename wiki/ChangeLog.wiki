@@ -7,6 +7,7 @@
 ===Release v. 2.48===
 Happy Holidays!
 
+ * Spy-Cicle meter added
  * Diamondback Crits now appear in a decent place
  * Pomson 6000 Bar sits between the metal and ammo counts (This one's iffy, let me know what you think about how it looks!)
  * Class Select menu: Used from FrankenHUD (That's where the old one came from, haha.) with minor adjustments. http://steamcommunity.com/groups/frankenhud
