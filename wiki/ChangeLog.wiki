@@ -3,6 +3,21 @@
 
 =Change Log=
 ----
+==December 16, 2011
+===Release v. 2.48===
+Happy Holidays!
+
+ * Diamondback Crits now appear in a decent place
+ * Pomson 6000 Bar sits between the metal and ammo counts (This one's iffy, let me know what you think about how it looks!)
+ * Class Select menu: Used from FrankenHUD (That's where the old one came from, haha.) with minor adjustments. http://steamcommunity.com/groups/frankenhud
+----
+==October 28, 2011==
+===Release v. 2.47===
+
+ * MONOCULUS!'s life bar should appear now
+ * Color qualities added for Haunted, Completed.
+
+----
 ==October  1, 2011==
 ===Release v. 2.46==
 
