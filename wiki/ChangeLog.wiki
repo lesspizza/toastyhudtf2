@@ -3,6 +3,17 @@
 
 =Change Log=
 ----
+==March 5, 2012==
+===Release v. 2.5===
+- Fixed class menu bug that prevented selecting a class (sorry!)
+- Added new-ish entries to the clientscheme.res and hudlayout.res files that dealt with really obscure stuff.
+----
+==December 25, 2011==
+===Release v. 2.49===
+a.k.a. Merry Almost-Not Christmas!
+
+Christmas break has afforded me the time to fix the class select menu for our good pal Medik, and return it to its former (and much more handsome) glory!
+----
 ==December 16, 2011==
 ===Release v. 2.48===
 Happy Holidays!
