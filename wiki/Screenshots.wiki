@@ -41,10 +41,8 @@ http://img690.imageshack.us/img690/9940/teammenu.png
 Class Select Menu:
 http://img153.imageshack.us/img153/8428/classmenu.png
 
-MOTD, Map Info and Item Get Panels (From FrankenHUD):
-http://img137.imageshack.us/img137/9369/motdy.png
+MOTD and Map Info(From FrankenHUD):
 http://img338.imageshack.us/img338/3672/mapinfo.png
-http://img35.imageshack.us/img35/863/itemgetm.png
 
 Freezecam:
 http://img13.imageshack.us/img13/6571/freezecam.png
