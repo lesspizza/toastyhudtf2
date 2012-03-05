@@ -47,11 +47,11 @@ http://img338.imageshack.us/img338/3672/mapinfo.png
 Freezecam:
 http://img13.imageshack.us/img13/6571/freezecam.png
 
-Scoreboard:
+Scoreboard + Tournament Spectator:
 http://img130.imageshack.us/img130/4444/scoreboardr.png
 
-Winpanel + Tournament Spectator:
-http://img130.imageshack.us/img130/6509/winpaneltournamentspec.png
+Winpanel:
+http://img607.imageshack.us/img607/7156/winpanel.png
 
 CTF Panel:
 http://img534.imageshack.us/img534/2620/ctfpanel.jpg
