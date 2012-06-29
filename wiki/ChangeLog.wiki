@@ -4,7 +4,7 @@
 =Change Log=
 ----
 ==June 28, 2012==
-===Release v. 2.6
+===Release v. 2.6===
  * Added a proper meter for the Hitman's Heatmaker
  * Fixed a minor bug with the Soda Popper
  * Special Delivery UI is no longer jumbled up
