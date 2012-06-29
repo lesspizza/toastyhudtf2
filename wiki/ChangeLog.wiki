@@ -9,6 +9,7 @@
  * Fixed a minor bug with the Soda Popper
  * Special Delivery UI is no longer jumbled up
  * Added optional files for textless Soda Popper/Baby Face and Heatmaker meters
+----
 ==March 5, 2012==
 ===Release v. 2.5===
  * Fixed class menu bug that prevented selecting a class (sorry!)
