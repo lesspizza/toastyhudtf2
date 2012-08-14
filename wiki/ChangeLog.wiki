@@ -3,6 +3,12 @@
 
 =Change Log=
 ----
+==August 13, 2012==
+===Release v 2.7===
+*Cleaver Bar added.
+*Minor adjusting of UI elements
+*Small Pomson error fixed
+----
 ==June 28, 2012==
 ===Release v. 2.6===
  * Added a proper meter for the Hitman's Heatmaker
