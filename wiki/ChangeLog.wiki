@@ -5,8 +5,8 @@
 ----
 ==August 16, 2012==
 ===Release 2.9===
-* MvM HUD/Scoreboard should work now!
-* Tiny error with the R. Bison
+ * MvM HUD/Scoreboard should work now!
+ * Tiny error with the R. Bison
 ----
 ==August 13, 2012==
 ===Release v 2.7===
