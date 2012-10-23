@@ -3,6 +3,13 @@
 
 =Change Log=
 ----
+==October 23, 2012==
+===Release 2.94===
+ * Not dead!
+ * MvM now has proper use of the in world cash feature.
+ * The class menu no longer has the "class tips" floating over it (apologies! I didn't know that happened).
+ * Winning a wave should no longer have [UNKNOWN] behind the title/credit rating.
+----
 ==August 16, 2012==
 ===Release 2.9===
  * MvM HUD/Scoreboard should work now!
