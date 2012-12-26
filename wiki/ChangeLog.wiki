@@ -3,6 +3,13 @@
 
 =Change Log=
 ----
+==December 26, 2012==
+===Release 2.961==
+ * I'm not dead
+ * Vaccinator has a proper uber bar now. Apologies for the mediocre placement of the resist icons, but they refuse to move.
+ * A lot of little MvM fixes, mainly around credits
+ * You can now see the tank HP! Helpful!
+----
 ==October 23, 2012==
 ===Release 2.94===
  * Not dead!
