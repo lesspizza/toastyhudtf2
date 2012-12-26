@@ -10,6 +10,16 @@
  * A lot of little MvM fixes, mainly around credits
  * You can now see the tank HP! Helpful!
 ----
+==October 26, 2012==
+===Release 2.95==
+ * Now with 35% more spooky!
+ * Updated the status panels for Wave 666
+ * The Wheel of Fate effect will now display to the right of your health
+ * Added a ghost
+ * (LONG OVERDUE) When Marked for Death by anything other than the FoW, it will now display on the HP cross.
+ * Haunted Items now have a proper itemcolor in the backpack. (I know that the TF team has changed it from purple to teal, however I found the new color to be eye-bleedingly bad. As such, I've kept it purple. If you wish to have them be teal, leave a message and I'll make a separate file)
+ * Cleaver bar no longer overlaps the sandman!
+----
 ==October 23, 2012==
 ===Release 2.94===
  * Not dead!
