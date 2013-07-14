@@ -3,6 +3,10 @@
 
 =Change Log=
 ----
+==July 13, 2013==
+===R 2.963==
+ * General fixes for new update (CMangler has 4 bars on meter, new buff icons)
+----
 ==December 26, 2012==
 ===Release 2.961==
  * I'm not dead
