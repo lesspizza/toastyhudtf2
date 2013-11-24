@@ -3,6 +3,10 @@
 
 =Change Log=
 ----
+=November 22, 2013=
+* Should work with all the new things in the 2 Cities update.
+* If something doesn't work, please notify me and you'll receive a prize!
+----
 ==July 13, 2013==
 ===R 2.963==
  * General fixes for new update (CMangler has 4 bars on meter, new buff icons)
